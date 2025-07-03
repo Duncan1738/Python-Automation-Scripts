@@ -1,9 +1,9 @@
 
-# 🚀 Python Automation Scripts
+# Python Automation Scripts
 
 This project contains **Python automation scripts** for **data scraping, workflow optimization, and repetitive task automation**.
 
-## 📌 Features
+##  Features
 ✅ **Web Scraping** – Extracts website data using `BeautifulSoup`.  
 ✅ **Excel Automation** – Creates and updates reports using `pandas`.  
 ✅ **Email Automation** – Sends automated emails via SMTP.  
