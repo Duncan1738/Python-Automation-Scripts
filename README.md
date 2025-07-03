@@ -10,7 +10,7 @@ This project contains **Python automation scripts** for **data scraping, workflo
  **Browser Automation** – Controls websites using `Selenium`.  
 
 ## Getting Started
-### 1️⃣ Install Dependencies
+###  Install Dependencies
 Run this in **Google Colab**:
 ```bash
 !pip install requests beautifulsoup4 pandas selenium openpyxl smtplib webdriver-manager
